@@ -1,0 +1,53 @@
+/* etiquestas */
+
+body{
+	margin: 1px;
+	background: white;
+	font-family: arial;
+}
+p{
+	font-size: 14px;
+	color: blue;
+	width: 600px;
+}
+
+
+/* id's */
+#dia{	background: url('../imagenes/dia.jpg') no-repeat; }
+#tarde{	background: url('../imagenes/tarde.jpeg')}
+#noche {
+	background: url('../imagenes/noche.jpeg') #313b66;
+}
+
+/* clases */
+.texto{
+	font-family: serif;
+	font-size: 20px;
+	width: 250px;
+	color: white;
+	text-align: justify; 
+	position: left;
+	display: inline-block;
+	margin: 10px 10px 30px 40px;
+}
+
+.link{
+	color: blue;
+
+}
+
+.link:hover{
+	color: #cccccc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
